@@ -1,7 +1,4 @@
-TU REGALO PARA VALE ❤️
-
-1. Abrí index.html para probar la página en tu computadora. Las fotos deben permanecer dentro de la carpeta fotos.
-2. Para publicarla gratis y tener un enlace para compartir, subí todo el contenido de esta carpeta (index.html y la carpeta fotos) a un servicio de hosting estático como Netlify Drop: https://app.netlify.com/drop
-3. También podés usar GitHub Pages o Cloudflare Pages. No subas solo el index.html: incluí la carpeta fotos.
-
-La música usa el reproductor de YouTube y puede necesitar que la persona toque reproducir, especialmente en celulares.
+Para que las fotos funcionen en Vercel:
+- index.html y las imágenes 01.jpg a 07.jpg están todos en la misma carpeta.
+- Subí todos estos archivos al mismo directorio raíz del proyecto.
+- Si Vercel está conectado a GitHub, hacé commit/push y esperá el nuevo deploy.
